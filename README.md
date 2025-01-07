@@ -1,2 +1,4 @@
 # Bachelor-Thesis_Philipp-Radder
-Code relaxed to my Bachelor thesis "Discrete Optimisation for the Calibration of Metabolic Networks"
+Code related to my Bachelor thesis "Discrete Optimisation for the Calibration of Metabolic Networks"
+
+Each file is named after the respective model name and the experiment included in the file.
